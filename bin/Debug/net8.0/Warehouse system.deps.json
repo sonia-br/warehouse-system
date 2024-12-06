@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Warehouse system/1.0.0": {
+        "runtime": {
+          "Warehouse system.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Warehouse system/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
